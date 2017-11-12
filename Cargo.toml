@@ -1,0 +1,8 @@
+[package]
+name = "image_attempt"
+version = "0.1.0"
+authors = ["theHooloovoo <theHooloovoo@protonmail.com>"]
+
+[dependencies]
+raster = "*"
+image = "*"
